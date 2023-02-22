@@ -10,10 +10,10 @@ const FeedbackButton = styled.button`
   margin: 20px auto;
   text-align: center;
   padding: 1px 5px;
-  color: #022524;
+  color: #ffffff;
   border-radius: 4px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
-  background: #83f3e4;
+  background: #2196f3;
 `;
 
 export { FeedbackButton };

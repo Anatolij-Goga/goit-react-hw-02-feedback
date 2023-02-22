@@ -1,13 +1,16 @@
 import styled from '@emotion/styled';
 
 const StatisticsContainer = styled.ul`
-  background-color: rgb(201, 245, 235);
+  background-color: #2196f3;
   margin: 0;
   padding: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  list-style: none;
+  color: #ffffff;
+  font-weight: bold;
 `;
 
 const StatisticsItem = styled.li`
